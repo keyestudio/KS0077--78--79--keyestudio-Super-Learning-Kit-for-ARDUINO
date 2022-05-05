@@ -42,7 +42,7 @@ KS0079 KIT Includes MEGA 2560 board.**
 |         | 8\*8 LED Matrix                        | 1      | ![](media/d226a1f3c801ac78321f0692143c853e.png)                                                                                               |
 |         | 2x16 LCD display                       |   1    | ![](media/e69870105e8985fb8a435a933e9b3679.jpeg)                                                                                              |
 |         | IR Receiver                            | 1      | ![](media/54ffd446f64ba0a28c5b9167de63e3da.png)                                                                                               |
-|         | IR Remote Control                      | 1      | ![](media/aeec7a879912244ea9e8481a5a90ae44.jpeg)                                                                                              |
+|         | IR Remote Control                      | 1      | ![](media/ks0077.jpg)                                                                                              |
 |         | Servo Motor                            | 1      | ![](media/124d7635f2d87c781a2bcfbfec309dde.png)                                                                                               |
 |         | Stepper Driver                         | 1      | ![](media/7a25b27da2e304a9acd0bbab88f990db.png)                                                                                               |
 |         | Stepper Motor                          | 1      | ![](media/30177f53ff97ad2adb1cee6571604692.jpeg)                                                                                              |
