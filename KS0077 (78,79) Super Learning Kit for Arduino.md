@@ -524,7 +524,7 @@ to pin 10 turning on and off, with an interval of approximate one second.
 
 In this way, blinking LED experiment is now completed. Thank you!
 
-![](media/0af295e8c9f7f3c99247424a4e4ea9b1.jpeg)
+![](media/0af295e8c9f7f3c99247424a4e4ea9b1.jpg)
 
 ### Project 3: PWM
 
@@ -645,7 +645,7 @@ This time, we will use a potentiometer to control the brightness of the LED.
 Hook up via connection diagram, upload the code and plug in power. The external
 LED lights up then gets dark gradually, which looks like human breath.
 
-![](media/0af295e8c9f7f3c99247424a4e4ea9b1.jpeg)
+![](media/0af295e8c9f7f3c99247424a4e4ea9b1.jpg)
 
 ### Project 4: Traffic Light
 
@@ -774,7 +774,7 @@ repeatedly forming a cycle.
 
 Experiment is now completed, thank you!
 
-![](media/5b1acb78196da42f1f8d55dd5a41fec2.jpeg)
+![](media/5b1acb78196da42f1f8d55dd5a41fec2.jpg)
 
 ### Project 5: LED Chasing Effect
 
@@ -874,7 +874,7 @@ delay(200); // delay
 
 You can see the LEDs blink by sequence.
 
-![](media/f633a5d382726cbd48b619513b3aedc1.jpeg)
+![](media/f633a5d382726cbd48b619513b3aedc1.jpg)
 
 ### Project 6: Button-Controlled LED
 
@@ -1008,7 +1008,7 @@ outputs low level and the LED remains off.
 When the button is pressed, LED is on, otherwise, LED remains off. In this way,
 the button controlled LED experiment is completed.
 
-![](media/963515b0dc9f286144ee1b1e6e7449bc.jpeg)
+![](media/963515b0dc9f286144ee1b1e6e7449bc.jpg)
 
 The simple principle of this experiment is widely used in a variety of circuit
 and electric appliances. You can easily come across it in your daily life. One
@@ -1102,7 +1102,7 @@ digitalWrite(buzzer, HIGH); // produce sound
 After uploading the program, the buzzer experiment is completed. You can see the
 buzzer is ringing.
 
-![](media/9c419b4868653c605331af11791163a8.jpeg)
+![](media/9c419b4868653c605331af11791163a8.jpg)
 
 ### Project 8: Passive Buzzer
 
@@ -1214,7 +1214,7 @@ board, and the one sealed with vinyl is an active buzzer.
 After uploading the program, buzzer experiment is finished, you can hear the
 buzzer sound.
 
-![](media/d04f4a64cb1da00315c59f4693b36ea9.jpeg)
+![](media/d04f4a64cb1da00315c59f4693b36ea9.jpg)
 
 ### Project 9: RGB LED
 
@@ -1342,7 +1342,7 @@ And we could adjust the LED brightness by PWM
 Directly copy the above code into arduino IDE, and click upload, wait for a few
 seconds, you can see a full-color LED.
 
-![](media/19ad87a8f993bc3f273c016c68d53fe6.jpeg)
+![](media/19ad87a8f993bc3f273c016c68d53fe6.jpg)
 
 ### Project 10: Photo Resistor
 
@@ -1469,7 +1469,7 @@ photovaristor, and see the corresponding brightness change of the LED.
 Photovaristors has various applications in our everyday. You can make other
 interesting interactive projects based on this one.
 
-![](media/7634124b9c86966a3dd02b3a8b5cda13.jpeg)
+![](media/7634124b9c86966a3dd02b3a8b5cda13.jpg)
 
 ### Project 11: Flame Sensor
 
@@ -1599,7 +1599,7 @@ This program can simulate an alarm when there is a fire. Everything is normal
 when there is no fire; when there is fire, the alarm will be set off
 immediately.
 
-![](media/7f0d51bb67536642c9552f027c3670f4.jpeg)
+![](media/7f0d51bb67536642c9552f027c3670f4.jpg)
 
 ### Project 12: LM35 Temperature Sensor
 
@@ -1705,7 +1705,7 @@ The output temperature is 0℃～100℃, the conversion formula is as follows:
 After uploading the program, you can open the monitoring window to see the
 current temperature.
 
-![](media/0bfa994699b95c98f43d69109f3c5fc9.jpeg)
+![](media/0bfa994699b95c98f43d69109f3c5fc9.jpg)
 
 ![](media/ac4145de63deb88c831cc8f1acda5cb7.png)
 
@@ -1820,7 +1820,7 @@ The principle of this experiment can be also applied to relay control.
 
 Experiment now is completed. Thank you!
 
-![](media/c8d862f2fb307602f0267b2e8815ab81.jpeg)
+![](media/c8d862f2fb307602f0267b2e8815ab81.jpg)
 
 ### Project 14: IR Remote Control
 
@@ -2232,7 +2232,7 @@ Decode the coded pulse signal emitted by the remote controller, then execute
 corresponding action according to the results of the decoding. In this way, you
 will be able to control your device with remote controller.
 
-![](media/ef9131f45bc16987f42b84f8089aefe3.jpeg)
+![](media/ef9131f45bc16987f42b84f8089aefe3.jpg)
 
 Done uploading, open the serial monitor, you can see the result as below.
 
@@ -2370,7 +2370,7 @@ Below figure shows the analog value it reads.
 
 The experiment is now completed. Thank you!
 
-![](media/67a94831bec37aa585c4a786f3cf3934.jpeg)
+![](media/67a94831bec37aa585c4a786f3cf3934.jpg)
 
 ### Project 16: 74HC595 chip
 
@@ -2535,7 +2535,7 @@ it more easier!
 
 After downloading the program, you can see 8 LEDs display 8-bit binary number.
 
-![](media/4cae98d0e25b9956420032a7dd5f59e9.jpeg)
+![](media/4cae98d0e25b9956420032a7dd5f59e9.jpg)
 
 ### Project 17: 1-digit LED Segment Display
 
@@ -2918,7 +2918,7 @@ delay time, the longer the displaying time.
 
 LED segment display will show the number from 0 to 9.
 
-![](media/d33ad298df92a5796d803b2b64f26005.jpeg)
+![](media/d33ad298df92a5796d803b2b64f26005.jpg)
 
 **Project 18: 4-digit LED Segment Display**
 
@@ -3472,7 +3472,7 @@ shows the number 1234.
 
 **Note** if it’s not displaying correctly, check the wiring.
 
-![](media/31a0485221a3d9840866e0aea0dcd5ae.jpeg)
+![](media/31a0485221a3d9840866e0aea0dcd5ae.jpg)
 
 ### Project 19: 8\*8 LED Matrix
 
@@ -3634,9 +3634,9 @@ The internal view of a dot-matrix is shown as follows
 
 Burn the program into V4.0 board, the dot-matrix will display 0.
 
-![](media/853bcb8364ac9f3df788992935137a35.jpeg)
+![](media/853bcb8364ac9f3df788992935137a35.jpg)
 
-![](media/aa30e6e3752f6c8ba95499ec4c5ef714.jpeg)
+![](media/aa30e6e3752f6c8ba95499ec4c5ef714.jpg)
 
 ### Project 20: 1602 LCD
 
@@ -4108,7 +4108,7 @@ goes.
 
 1.  **Test Result**
 
-**![](media/217f669743975931122b22e2cc8e66a0.jpeg)**![](media/ab7b1dced23c031955b92a692aea36bb.jpeg)
+**![](media/217f669743975931122b22e2cc8e66a0.jpg)**![](media/ab7b1dced23c031955b92a692aea36bb.jpg)
 
 ### Project 21: Servo Control
 
@@ -4350,7 +4350,7 @@ according to your liking or actual need.
 
 **6.Test Result**
 
-![](media/4c8d7fc0f4663138b3e5e1d099b55efd.jpeg)
+![](media/4c8d7fc0f4663138b3e5e1d099b55efd.jpg)
 
 ### Project 22: Stepper Motor
 
@@ -4507,7 +4507,7 @@ Your position is known simply by keeping track of the input step pulses.
 
 **7.Test Result**
 
-![](media/f6a0553a9678888ca8da3a16614f3f49.jpeg)
+![](media/f6a0553a9678888ca8da3a16614f3f49.jpg)
 
 ### Project 23: PIR Motion Sensor
 
@@ -4630,7 +4630,7 @@ light up, and "Somebody is in this area!" is displayed on the serial monitor.
 If no detecting the movement, D13 indicator on V4.0 board will be off, and "No
 one!" is displayed on the serial monitor.
 
-![](media/07bc267b8dd04d62670f2e39e9ce614e.jpeg)
+![](media/07bc267b8dd04d62670f2e39e9ce614e.jpg)
 
 ![](media/68809c3302f0c09e6641cc16e260c4bc.png)
 
@@ -4721,7 +4721,7 @@ the sensitivity can be adjusted by the potentiometer.
 
 **6.Test Result**
 
-![](media/1e1ce628156c81c299986a5284b8e9d0.jpeg)
+![](media/1e1ce628156c81c299986a5284b8e9d0.jpg)
 
 ### Project 25: ADXL345 Three Axis Acceleration
 
@@ -4967,7 +4967,7 @@ Wiring as the above diagram and power on, then upload the code and open the
 serial monitor, it will display the triaxial acceleration of sensor and its
 status, as the graph shown below.
 
-![](media/b4fd0844286afce3273fb7f493194ce3.jpeg)![](media/03db2e48cb2fc85dffadda06a6c58a4f.jpeg)
+![](media/b4fd0844286afce3273fb7f493194ce3.jpg)![](media/03db2e48cb2fc85dffadda06a6c58a4f.jpg)
 
 ![](media/00067ed919196eee7c8161fbac370bf0.png)
 
@@ -5125,7 +5125,7 @@ After upload well the code to V4.0 board, then open the serial monitor.
 When place an object in front of the ultrasonic sensor (from near and far), it
 will detect the distance of object. The value will be displayed on the monitor.
 
-![](media/c045adb7a503f0347e75e65ec441fd24.jpeg)
+![](media/c045adb7a503f0347e75e65ec441fd24.jpg)
 
 ![](media/73273779d968420f7714e881e7c5bd19.png)
 
@@ -5234,7 +5234,7 @@ module is for Arduino(V5) with cable supplied.
 Wiring well and uploading the code, open the serial monitor and set the baud
 rate to 9600, push the joystick, you will see the value shown below.
 
-![](media/0052cbd377c677ab9bf5205503de568c.jpeg)
+![](media/0052cbd377c677ab9bf5205503de568c.jpg)
 
 ![](media/522fbe816ea373a1f12c31be1cfaa83b.png)
 
@@ -5340,7 +5340,7 @@ or high voltage devices.
 
 **6.Test Result**
 
-![](media/c21e434ea30ad9b63c22fa8b8ce3eb58.jpeg)
+![](media/c21e434ea30ad9b63c22fa8b8ce3eb58.jpg)
 
 ### Project 29: DS3231 Clock Module
 
@@ -5509,9 +5509,9 @@ library](https://github.com/rodan/ds3231) under file into Arduino catalogue.
 Done uploading the code to arduino, open the serial monitor and get the
 following results
 
-![](media/e04325380a56914aba6db422a67d2507.jpeg)
+![](media/e04325380a56914aba6db422a67d2507.jpg)
 
-![](media/c43d1580f429e6386249ebe8ee500d07.jpeg)
+![](media/c43d1580f429e6386249ebe8ee500d07.jpg)
 
 ![](media/b6eb7a9afc47284b2e29e1f82d0f7eb7.png)
 
@@ -5666,7 +5666,7 @@ firstly. Or [see the website](http://playground.arduino.cc/Main/DHTLib)
 
 Wire it up well and upload the above code to V4.0 board.
 
-![](media/de8b064ca998db8902a814fbd793c2b5.jpeg)
+![](media/de8b064ca998db8902a814fbd793c2b5.jpg)
 
 Then open the serial monitor and set the baud rate to 9600, you will see the
 current temperature and humidity value.
@@ -5774,11 +5774,11 @@ With the help of this sensor, the plant can remind of you I need water.
 
 **6.Test Result**
 
-![](media/1a1dd1c27b12e1f9356f61be439b8157.jpeg)
+![](media/1a1dd1c27b12e1f9356f61be439b8157.jpg)
 
 ### Project 32: RC522 RFID Module
 
-![](media/75302e45fe5b9f92c92a8a637f823503.jpeg)
+![](media/75302e45fe5b9f92c92a8a637f823503.jpg)
 
 **1.Introduction**
 
@@ -6887,9 +6887,9 @@ In this experiment, when the IC card approaches, RFID module will write data to
 the IC card and read the card’s data, you can see the data on the monitor
 window. Shown below.
 
-![](media/0c5c27f3b76596434b39947f0c9679b3.jpeg)
+![](media/0c5c27f3b76596434b39947f0c9679b3.jpg)
 
-![](media/d8fe398db5713690fcd8d584c28baa4a.jpeg)
+![](media/d8fe398db5713690fcd8d584c28baa4a.jpg)
 
 ![](media/fdd8317f3ccd645580086094cbe02a5b.png)
 
