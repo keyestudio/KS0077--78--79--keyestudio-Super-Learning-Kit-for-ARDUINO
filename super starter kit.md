@@ -1,10 +1,10 @@
-# **Super Learning Kit for Arduino**
+ **Super Learning Kit for Arduino**
 
 
 
 ![](media/055d9d06359cdd13418b21d890d589e6.jpeg)
 
-## 1.Introduction
+# 1.Introduction
 
 keyestudio super learning kit is suitable for Arduino enthusiasts. This kit
 includes 32 projects with detailed tutorials, starting from the basics to more
@@ -14,7 +14,7 @@ Different from other kits, it adds some functional modules, such as RFID,
 temperature and humidity modules. There is connection diagram and code for each
 project, making it easy for you to learn.
 
-## 2.Component List
+# 2.Component List
 
 **NOTE: KS0077 Kit doesn’t Include Main board; KS0078 Kit Includes V4.0 board;
 KS0079 KIT Includes MEGA 2560 board.**
@@ -65,7 +65,7 @@ KS0079 KIT Includes MEGA 2560 board.**
 |         | 6-Slot AA  Battery Holder              | 1      | ![](media/7e5c6516c37b84f4fbc1086839312dc8.png)                                                                                               |
 |         | USB Cable                              | 1      | ![](media/eb93eeeecddd8c0aae395da7389df102.png)                                                                                               |
 
-## 3.Install Arduino IDE and Driver
+# 3.Install Arduino IDE and Driver
 
 **(1) Installing Arduino IDE**
 
@@ -274,7 +274,7 @@ for 1s. Congratulation, you finish the first program.
 **If it is keyestudio MEGA 2560 board, please select Arduino MEGA or MEGA 2560
 board**
 
-## 4.How to Add a Library?
+# 4.How to Add a Library?
 
 What are Libraries ?
 
@@ -320,9 +320,9 @@ Then the libraries of this kit are installed successfully, as shown below
 **Note the Arduino software download and the driver installation of keyetudio
 Mega 2560 R3 board is similar to arduino V4.0 board.**
 
-## 5.Project Details
+# 5.Project Details
 
-### Project 1: Hello World
+## Project 1: Hello World
 
 ![](media/4ad0155d2434695e5eb705db65587834.jpeg)
 
@@ -397,7 +397,7 @@ from Arduino Hello World!
 
 After choosing the proper port, the experiment is easy for you!
 
-### Project 2: LED Blinking
+## Project 2: LED Blinking
 
 ![](media/9a5a3eb3c7d8d19380d10e7ddc3a2f2d.jpeg)
 
@@ -526,7 +526,7 @@ In this way, blinking LED experiment is now completed. Thank you!
 
 ![](media/0af295e8c9f7f3c99247424a4e4ea9b1.jpg)
 
-### Project 3: PWM
+## Project 3: PWM
 
 ![](media/6b3633017013e8eb54e5c9b84f3162ab.png)
 
@@ -647,7 +647,7 @@ LED lights up then gets dark gradually, which looks like human breath.
 
 ![](media/0af295e8c9f7f3c99247424a4e4ea9b1.jpg)
 
-### Project 4: Traffic Light
+## Project 4: Traffic Light
 
 ![](media/be92b4ccb3f4ee39478f491984fd8d79.png)
 
@@ -776,7 +776,7 @@ Experiment is now completed, thank you!
 
 ![](media/5b1acb78196da42f1f8d55dd5a41fec2.jpg)
 
-### Project 5: LED Chasing Effect
+## Project 5: LED Chasing Effect
 
 ![](media/6c9baca2b01bbc53d769a8567f69540c.png)
 
@@ -876,7 +876,7 @@ You can see the LEDs blink by sequence.
 
 ![](media/f633a5d382726cbd48b619513b3aedc1.jpg)
 
-### Project 6: Button-Controlled LED
+## Project 6: Button-Controlled LED
 
 ![](media/c8fbe99e0d94c881d668f3705191bd7a.jpeg)
 
@@ -1015,7 +1015,7 @@ and electric appliances. You can easily come across it in your daily life. One
 typical example is when you press a certain key on your phone, the backlight
 will be on.
 
-### Project 7: Active Buzzer
+## Project 7: Active Buzzer
 
 ![](media/8c92c10cb59e47471fe8b9e5924fc10c.jpeg)
 
@@ -1104,7 +1104,7 @@ buzzer is ringing.
 
 ![](media/9c419b4868653c605331af11791163a8.jpg)
 
-### Project 8: Passive Buzzer
+## Project 8: Passive Buzzer
 
 ![](media/8134eaf9fa5fe727e9fabbbf91b4a51d.jpeg)
 
@@ -1216,7 +1216,7 @@ buzzer sound.
 
 ![](media/d04f4a64cb1da00315c59f4693b36ea9.jpg)
 
-### Project 9: RGB LED
+## Project 9: RGB LED
 
 ![](media/478b225e0817ccbaddb5e6cea74f0f40.png)
 
@@ -1344,7 +1344,7 @@ seconds, you can see a full-color LED.
 
 ![](media/19ad87a8f993bc3f273c016c68d53fe6.jpg)
 
-### Project 10: Photo Resistor
+## Project 10: Photo Resistor
 
 ![](media/8713ad9caa6ce9a10a466ac1cd6471e8.jpeg)
 
@@ -1471,7 +1471,7 @@ interesting interactive projects based on this one.
 
 ![](media/7634124b9c86966a3dd02b3a8b5cda13.jpg)
 
-### Project 11: Flame Sensor
+## Project 11: Flame Sensor
 
 ![](media/ebf8766be324b6cc7de84f5d1ee7ecdc.jpeg)
 
@@ -1601,7 +1601,7 @@ immediately.
 
 ![](media/7f0d51bb67536642c9552f027c3670f4.jpg)
 
-### Project 12: LM35 Temperature Sensor
+## Project 12: LM35 Temperature Sensor
 
 ![](media/238058bf413e08d167d116568519ef6a.jpeg)
 
@@ -1709,7 +1709,7 @@ current temperature.
 
 ![](media/ac4145de63deb88c831cc8f1acda5cb7.png)
 
-### Project 13: Tilt Switch
+## Project 13: Tilt Switch
 
 ![](media/c662e7b4fe0896586ebad0919e27cf3e.jpeg)
 
@@ -1822,7 +1822,7 @@ Experiment now is completed. Thank you!
 
 ![](media/c8d862f2fb307602f0267b2e8815ab81.jpg)
 
-### Project 14: IR Remote Control
+## Project 14: IR Remote Control
 
 ![](media/1f9625912546a723c043bf5e6bfd39b7.jpeg)
 
@@ -2238,7 +2238,7 @@ Done uploading, open the serial monitor, you can see the result as below.
 
 ![](media/0da43e98c7842cf9ef055a194f31b768.png)
 
-### Project 15: Analog Value Reading
+## Project 15: Analog Value Reading
 
 ![](media/c89c27448f314d467ac518a97b4ce26f.jpeg)
 
@@ -2372,7 +2372,7 @@ The experiment is now completed. Thank you!
 
 ![](media/67a94831bec37aa585c4a786f3cf3934.jpg)
 
-### Project 16: 74HC595 chip
+## Project 16: 74HC595 chip
 
 ![](media/05d96bc2e099c5bf7497fb83ff70cd72.jpeg)
 
@@ -2537,7 +2537,7 @@ After downloading the program, you can see 8 LEDs display 8-bit binary number.
 
 ![](media/4cae98d0e25b9956420032a7dd5f59e9.jpg)
 
-### Project 17: 1-digit LED Segment Display
+## Project 17: 1-digit LED Segment Display
 
 ![](media/bf71dd0c63b3ee8e5649e0d9751d2f7d.png)
 
@@ -3474,7 +3474,7 @@ shows the number 1234.
 
 ![](media/31a0485221a3d9840866e0aea0dcd5ae.jpg)
 
-### Project 19: 8\*8 LED Matrix
+## Project 19: 8\*8 LED Matrix
 
 ![](media/dc2cea8c802372a101de59cf758176a2.jpeg)
 
@@ -3638,7 +3638,7 @@ Burn the program into V4.0 board, the dot-matrix will display 0.
 
 ![](media/aa30e6e3752f6c8ba95499ec4c5ef714.jpg)
 
-### Project 20: 1602 LCD
+## Project 20: 1602 LCD
 
 ![](media/e69870105e8985fb8a435a933e9b3679.jpeg)
 
@@ -4110,7 +4110,7 @@ goes.
 
 **![](media/217f669743975931122b22e2cc8e66a0.jpg)**![](media/ab7b1dced23c031955b92a692aea36bb.jpg)
 
-### Project 21: Servo Control
+## Project 21: Servo Control
 
 ![](media/124d7635f2d87c781a2bcfbfec309dde.png)
 
@@ -4352,7 +4352,7 @@ according to your liking or actual need.
 
 ![](media/4c8d7fc0f4663138b3e5e1d099b55efd.jpg)
 
-### Project 22: Stepper Motor
+## Project 22: Stepper Motor
 
 ![](media/26818b4c18e0c713958ab69c4aee4a6a.png)
 
@@ -4509,7 +4509,7 @@ Your position is known simply by keeping track of the input step pulses.
 
 ![](media/f6a0553a9678888ca8da3a16614f3f49.jpg)
 
-### Project 23: PIR Motion Sensor
+## Project 23: PIR Motion Sensor
 
 ![](media/8f82781c39a9a085b674847d8457c7f8.png)
 
@@ -4634,7 +4634,7 @@ one!" is displayed on the serial monitor.
 
 ![](media/68809c3302f0c09e6641cc16e260c4bc.png)
 
-### Project 24: Analog Gas Sensor
+## Project 24: Analog Gas Sensor
 
 ![](media/dd66df963a40f0a11b502603c3fbe3dc.png)
 
@@ -4723,7 +4723,7 @@ the sensitivity can be adjusted by the potentiometer.
 
 ![](media/1e1ce628156c81c299986a5284b8e9d0.jpg)
 
-### Project 25: ADXL345 Three Axis Acceleration
+## Project 25: ADXL345 Three Axis Acceleration
 
 ![](media/711106db00ad90ba112b20e16e17275d.png)
 
@@ -4971,7 +4971,7 @@ status, as the graph shown below.
 
 ![](media/00067ed919196eee7c8161fbac370bf0.png)
 
-### Project 26: HC-SR04 Ultrasonic Sensor
+## Project 26: HC-SR04 Ultrasonic Sensor
 
 ![](media/227c57ce3bedc240adeb1d3b8734dd31.png)
 
@@ -5129,7 +5129,7 @@ will detect the distance of object. The value will be displayed on the monitor.
 
 ![](media/73273779d968420f7714e881e7c5bd19.png)
 
-### Project 27: Joystick Module
+## Project 27: Joystick Module
 
 ![](media/54314ad7033387b94c8b2fe6be7b4619.png)
 
@@ -5238,7 +5238,7 @@ rate to 9600, push the joystick, you will see the value shown below.
 
 ![](media/522fbe816ea373a1f12c31be1cfaa83b.png)
 
-### Project 28: 5V Relay Module
+## Project 28: 5V Relay Module
 
 ![](media/d8dd3e9046e47b07987fb58f369ef2fe.png)
 
@@ -5342,7 +5342,7 @@ or high voltage devices.
 
 ![](media/c21e434ea30ad9b63c22fa8b8ce3eb58.jpg)
 
-### Project 29: DS3231 Clock Module
+## Project 29: DS3231 Clock Module
 
 ![](media/511ace5a5e940d4644253ce313b9b694.png)
 
@@ -5515,7 +5515,7 @@ following results
 
 ![](media/b6eb7a9afc47284b2e29e1f82d0f7eb7.png)
 
-### Project 30: DHT11 Temperature and Humidity Sensor
+## Project 30: DHT11 Temperature and Humidity Sensor
 
 ![](media/b494f676f740a51c7c6eed398ec7e95f.png)
 
@@ -5673,7 +5673,7 @@ current temperature and humidity value.
 
 ![](media/f2696fa3adbfbe643b88d3bd5cd04741.png)
 
-### Project 31: Soil Humidity Sensor
+## Project 31: Soil Humidity Sensor
 
 ![](media/ad21a75d37b6ca4cf96d02e3c2437f65.png)
 
@@ -5776,7 +5776,7 @@ With the help of this sensor, the plant can remind of you I need water.
 
 ![](media/1a1dd1c27b12e1f9356f61be439b8157.jpg)
 
-### Project 32: RC522 RFID Module
+## Project 32: RC522 RFID Module
 
 ![](media/75302e45fe5b9f92c92a8a637f823503.jpg)
 
