@@ -4,7 +4,7 @@
    :caption: super starter kit for Arduino
 
 
-   super20%starter20%kit.md
+   ks0077,78,79.md
 
 
 
