@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'keyestudio WiKi'
-copyright = 'keyestudio , WiKi'
-author = 'keyestudio WiKi'
+project = 'Super Learning Kit for Arduino'
+copyright = 'keyestudio WiKi'
+author = 'keyestudio'
 
 # -- General configuration ---------------------------------------------------
 
